@@ -1,4 +1,10 @@
 site_name: Anchorage Archives
+site_url: https://restivesole267.github.io/anchorage-archivist
+site_description: Anchorage Archives
+
+repo_name: Anchorage Archivist
+repo_url: https://github.com/restivesole267/anchorage-archivist
+
 theme:
   name: material
   palette:
