@@ -9,13 +9,13 @@ repo_url: https://github.com/restivesole267/anchorage-archivist
 nav:
   - Home: index.md
   - Judicial:
-    - Judicial Index: index.md
+    - Judicial Index: judicial-index.md
     - Cases:
-      - Cases Index: index.md
+      - Cases Index: cases-index.md
     - Judges:
-      - Judges Index: index.md
+      - Judges Index: judges-index.md
   - Changelogs:
-    - Changelogs Home: index.md
+    - Changelogs Home: changelogs-index.md
 theme:
   name: material
   palette:
