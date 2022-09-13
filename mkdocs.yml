@@ -5,6 +5,17 @@ site_description: Anchorage Archives
 repo_name: Anchorage Archivist
 repo_url: https://github.com/restivesole267/anchorage-archivist
 
+
+nav:
+  - Home: index.md
+  - Judicial:
+    - Judicial Index: index.md
+    - Cases:
+      - Cases Index: index.md
+    - Judges:
+      - Judges Index: index.md
+  - Changelogs:
+    - Changelogs Home: index.md
 theme:
   name: material
   palette:
